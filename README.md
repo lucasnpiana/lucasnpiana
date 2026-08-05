@@ -178,6 +178,7 @@ This unique mix gives me:
   <img src="https://github-readme-stats.vercel.app/api?username=lucasnpiana&show_icons=true&theme=dark" height="150" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnpiana&layout=compact&theme=dark" height="150" alt="Top Languages" />
 </p>
+
 ---
 
 ## 📫 Let's Connect!
