@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Lucas Piana 👋
+# Hi, I'm Lucas Nickele Piana 👋
 
 ### Computer Science Student | Cybersecurity & DevOps Enthusiast | Python, Java & SQL
 
