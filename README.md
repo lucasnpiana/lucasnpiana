@@ -23,8 +23,7 @@
 
 ## 👨‍💻 About Me
 
-I am a **Computer Science student at URI – Erechim** (4th semester) and a participant in a **Full Stack Development Fellowship**, where I'm building real projects across the whole stack: frontend, backend, databases and cloud.
-
+I am a **Computer Science student at URI – Erechim** (4th semester).
 Before moving into development, I worked in administrative operations at a hospital, handling sensitive records and structured processes under pressure. That experience shaped how I write software: attention to detail, respect for data confidentiality and a focus on things that work reliably.
 
 What I'm focused on:
