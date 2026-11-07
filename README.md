@@ -1,5 +1,8 @@
 <div align="center">
 
+🌐 [Leia em Português](README.pt-BR.md)
+
+
 # Hi, I'm Lucas Nickele Piana 👋
 
 ### Computer Science Student | Full Stack Developer | TypeScript, Python & SQL
