@@ -2,8 +2,6 @@
 
 🌐 [Read in English](README.md)
 
-# Hi, I'm Lucas Nickele Piana 👋
-
 # Olá, eu sou o Lucas Nickele Piana 👋
 
 ### Estudante de Ciência da Computação | Desenvolvedor Full Stack | TypeScript, Python e SQL
