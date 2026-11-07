@@ -1,5 +1,9 @@
 <div align="center">
 
+🌐 [Read in English](README.md)
+
+# Hi, I'm Lucas Nickele Piana 👋
+
 # Olá, eu sou o Lucas Nickele Piana 👋
 
 ### Estudante de Ciência da Computação | Desenvolvedor Full Stack | TypeScript, Python e SQL
@@ -47,9 +51,6 @@ Extensão de navegador para descobrir animes com recomendações do AniList, fil
 API serverless de gerenciamento de tarefas construída com AWS Lambda, Prisma e Neon (PostgreSQL).
 `TypeScript` `AWS Lambda` `Prisma` `Neon`
 
-### [simulador-bios-uefi](https://github.com/lucasnpiana/simulador-bios-uefi)
-Simulador de BIOS/UEFI com interface gráfica, POST, CMOS Setup e boot via QEMU. Projeto acadêmico que explora como um computador inicializa.
-`Python` `QEMU`
 
 ---
 
