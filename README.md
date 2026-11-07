@@ -47,10 +47,6 @@ Browser extension to discover anime using AniList recommendations, with genre an
 Serverless task management API built with AWS Lambda, Prisma and Neon (PostgreSQL).
 `TypeScript` `AWS Lambda` `Prisma` `Neon`
 
-### [simulador-bios-uefi](https://github.com/lucasnpiana/simulador-bios-uefi)
-BIOS/UEFI simulator with a graphical interface, POST, CMOS Setup and QEMU boot. Academic project exploring how computers start up.
-`Python` `QEMU`
-
 ---
 
 ## 🛠️ Technologies and Tools
