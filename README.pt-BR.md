@@ -134,16 +134,7 @@ Experiência prática com dados confidenciais e processos estruturados, aliada a
 * **Comunicação clara** e calma sob pressão
 * **Visão de produto completo**, conectando UI/UX, código da aplicação, bancos de dados e segurança
 
----
 
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasnpiana&show_icons=true&theme=dark" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasnpiana&layout=compact&theme=dark" height="150" alt="Linguagens mais usadas" />
-</p>
-
----
 
 ## 📫 Vamos conversar!
 
