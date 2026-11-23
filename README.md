@@ -2,7 +2,6 @@
 
 🌐 [Leia em Português](README.pt-BR.md)
 
-
 # Hi, I'm Lucas Nickele Piana 👋
 
 ### Computer Science Student | Full Stack Developer | TypeScript, Python & SQL
@@ -31,60 +30,78 @@ Before moving into development, I worked in administrative operations at a hospi
 
 What I'm focused on:
 
-* Full stack web development (TypeScript, JavaScript, Python)
-* REST APIs and serverless backends
-* Relational databases and SQL modeling
-* Secure application practices (authentication, validation, data protection)
-* Object-oriented programming (Java / C++)
-* UI/UX design and prototyping
+- Full stack web development (TypeScript, JavaScript, Python)
+- REST APIs, validation contracts and serverless backends
+- Relational & NoSQL databases (PostgreSQL, MongoDB) and data modeling
+- Secure application practices (authentication, input validation, data protection)
+- Automated integration testing and clean architecture
+- UI/UX design and prototyping
 
 ---
 
 ## 🚀 Featured Projects
 
-### [animatch-anilist](https://github.com/lucasnpiana/animatch-anilist)
-Browser extension to discover anime using AniList recommendations, with genre and duration filters and a personalized discovery queue.
-`JavaScript`
-
 ### [task-api](https://github.com/lucasnpiana/task-api)
-Serverless task management API built with AWS Lambda, Prisma and Neon (PostgreSQL).
-`TypeScript` `AWS Lambda` `Prisma` `Neon`
+Serverless task management REST API built with AWS Lambda, Prisma ORM and Neon (PostgreSQL).
+`TypeScript` `AWS Lambda` `Prisma` `PostgreSQL`
+
+### [job-finder-node](https://github.com/lucasnpiana/job-finder-node)
+Web application for searching and publishing tech job listings, built with Node.js, Express and relational database persistence.
+`JavaScript` `Node.js` `Express` `SQL`
+
+### [animatch-anilist](https://github.com/lucasnpiana/animatch-anilist)
+Browser extension to discover anime using AniList GraphQL recommendations, with genre/duration filters and a personalized discovery queue.
+`JavaScript` `HTML5` `CSS3` `REST/GraphQL API`
+
+### [simulador-bios-uefi](https://github.com/lucasnpiana/simulador-bios-uefi)
+Interactive browser-based BIOS/UEFI firmware simulator exploring low-level system configuration, boot order and hardware interfaces.
+`JavaScript` `HTML5` `CSS3`
+
+### [devhouse](https://github.com/lucasnpiana/devhouse)
+Property and space booking platform backend/application structured around listings, reservations and user management.
+`JavaScript` `Node.js` `Express`
 
 ---
 
 ## 🛠️ Technologies and Tools
 
-### Languages
+### Frontend
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-</p>
-
-### Frontend & Backend
-
-<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
+
+### Backend & APIs
+
+<p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white">
+  <img src="https://img.shields.io/badge/Swagger_/_OpenAPI-85EA2D?style=for-the-badge&logo=swagger&logoColor=black">
 </p>
 
 ### Databases & Cloud
 
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
   <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white">
   <img src="https://img.shields.io/badge/Firebird-EE4000?style=for-the-badge&logoColor=white">
 </p>
 
-### Tools & Design
+### Testing, Tools & Design
 
 <p>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
@@ -100,28 +117,26 @@ Serverless task management API built with AWS Lambda, Prisma and Neon (PostgreSQ
 
 Worked with operational and administrative routines in a healthcare environment, focusing on document management, patient record control and public assistance.
 
-* Handled sensitive data with strict attention to confidentiality and compliance
-* Organized and audited medical records and administrative documents
-* Communicated with users and internal teams in high-pressure situations
-* Followed structured procedures while keeping workflow accuracy high
+- Handled sensitive data with strict attention to confidentiality and compliance
+- Organized and audited medical records and administrative documents
+- Communicated with users and internal teams in high-pressure situations
+- Followed structured procedures while keeping workflow accuracy high
 
 ---
 
 ## 🎯 Current Focus
 
-* 🌐 Completing the Full Stack Fellowship and shipping projects end to end
-* ⚙️ Building typed, serverless APIs with TypeScript, Prisma and AWS
-* 🗄️ Deepening SQL modeling and database design
-* 🔐 Applying security fundamentals (from my Cisco Cybersecurity studies) to the apps I build
-* 🧪 Learning testing, CI/CD and deployment practices
+- 🌐 Completing the Full Stack Fellowship and shipping backend & full stack projects end to end
+- ⚙️ Building typed REST and serverless APIs with Node.js, TypeScript, Express, MongoDB and PostgreSQL
+- 🧪 Writing automated integration tests (Vitest, Supertest) and practicing CI/CD workflows
 
 ---
 
 ## 🌎 Languages
 
-* **Portuguese** — Native
-* **English** — Advanced / Fluent (CEFR B2 Certified – Cambridge Linguaskill)
-* **Spanish** — Basic
+- **Portuguese** — Native
+- **English** — Advanced / Fluent (CEFR B2 Certified – Cambridge Linguaskill)
+- **Spanish** — Basic
 
 ---
 
@@ -129,13 +144,12 @@ Worked with operational and administrative routines in a healthcare environment,
 
 Hands-on experience with confidential data and structured processes, combined with a growing full stack toolkit.
 
-* **Responsibility** when handling user data and business rules
-* **Analytical mindset** to diagnose problems and structure solutions
-* **Clear communication** and calm under pressure
-* **Whole-product view** connecting UI/UX, application code, databases and security
+- **Responsibility** when handling user data and business rules
+- **Analytical mindset** to diagnose problems and structure solutions
+- **Clear communication** and calm under pressure
+- **Whole-product view** connecting UI/UX, application code, databases and security
 
 ---
-
 
 ## 📫 Let's Connect!
 
